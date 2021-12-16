@@ -1449,3 +1449,17 @@ a:hover, a:active {
 .theme-purple .theme-list li::before {
     border-color: #6f42c1;
 }
+
+.topbar-nav .brand img{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+
+.cont-info{
+    font-size: 20px;
+}
+
+.cont-info p{
+    font-size: 20px;
+}
