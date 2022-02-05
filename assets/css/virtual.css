@@ -35,6 +35,11 @@
     --theme-purple: #6f42c1;
 }
 
+*::selection{
+    background: var(--theme-orange);
+    color: white;
+}
+
 /* Light */
 @font-face {
     font-family: 'Quicksand';
